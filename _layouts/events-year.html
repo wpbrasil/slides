@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="post">
+
+	<header class="post-header">
+		<h1 class="post-title">{{ page.title }}</h1>
+		{{ content }}
+	</header>
+
+	<article class="post-content">
+		<ul class="post-list">
+			{% for event in site.data.state.[page.id] %}
+			<li class="type-{{ event.type }}">
+				{% if event.type == 'wordcamp' %}
+					<h2 id="wc-{{ event.year }}"><a href="{{ event.url }}" target="_blank" rel="nofollow">WordCamp {{ event.date | date: "%Y &mdash; %d/%m" }}</a></h2>
+				{% else %}
+					<h2 id="mu-{{ event.date }}">Meetup {{ event.date }}</h2>
+				{% endif %}
+				<ul class="list-slides">
+					{% for slide in event.slides %}
+						<li>
+							<h3><a href="{{ slide.url }}" target="_blank" rel="nofollow">{{ slide.title }}</a></h3>
+							<p>Palestrante: <strong>{{ slide.speaker }}</strong></p>
+						</li>
+					{% endfor %}
+				</ul>
+			</li>
+			{% endfor %}
+		</ul>
+
+		<p class="rss-subscribe">assine <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	</article>
+
+</div>
