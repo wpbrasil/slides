@@ -7,7 +7,6 @@ permalink: /sao-paulo/
 ## WordCamps
 
 ### 2014
-
 * [Airton Vancin e Raphael Fabeni - Do início ao fim com WordPress: Planejamento, desenvolvimento e desafios](https://speakerdeck.com/raphaelfabeni/do-inicio-ao-fim-com-wordpress)
 * [Allyson Souza - Custom Post Types, Taxonomies e Meta boxes: Os três superpoderes do WordPress](http://www.slideshare.net/hastedesign/custom-post-types-custom-taxonomies-e-meta-boxes)
 * [André Rosa - Como escrever para a web?](http://www.slideshare.net/andrerosajor/wordcamp-2014-40686191)
@@ -38,5 +37,12 @@ permalink: /sao-paulo/
 * [Rodrigo Primo - Gerenciando o WordPress com o WP-CLI](http://rodrigoprimo.github.io/wp-cli-presentation/)
 * [Valério de Souza - Vamos focar no usuário?](http://prezi.com/hekb_io9fyu-)
 * [Vinicius Massuchetto - Desenvolvimento em comunidade: A história técnica e política de um plugin do WordPress](http://vmassuchetto.github.io/2013/11/20/desenvolvimento-em-comunidade-a-historia-tecnica-e-politica-de-um-plugin-no-wordpress/)
+
+### 2012
+* [Bruno Borges - Malware e Segurança em WordPress](http://prezi.com/-jnj0csivv94/wordcamp-sp-2012/)
+* [Cátia Kitahara - WordPress para Webdesigners: Classes e IDs gerados automaticamente](http://catiakitahara.com.br/palestras/wordpress-para-webdesigners)
+* [Marcelo Mesquita - WordPress com Multisites Integrados](http://prezi.com/fxxifxoleavh/wordpress-com-multisites-integrados/)
+* [Mayara Alanna Pereira Martins - Gerenciamento de sites/blogs com o WordPress 3.4](http://www.slideshare.net/mayaraalanna/gerenciamento-de-sitesblogs-com-o-wordpress-34)
+* [Ricardo Moraleida - Theme Review e Unit Test: “O” guia de boas práticas para temas](https://www.slideshare.net/moraleida/theme-review-e-unit-test-wordcamp-sp-2012/)
 
 ## Meetups
