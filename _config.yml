@@ -1,0 +1,9 @@
+# Site settings
+title: WP Brasil Slides
+description: "Repositório para centralizar os slides apresentados em meetups e WordCamps pelo Brasil."
+baseurl: "/slides" # the subpath of your site, e.g. /blog/
+url: "https://wpbrasil.github.io" # the base hostname & protocol for your site
+github_username:  wpbrasil
+
+# Build settings
+markdown: kramdown
