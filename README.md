@@ -1,16 +1,8 @@
-# slides
+# Slides
 Repositório para centralizar os slides apresentados em meetups e WordCamps pelo Brasil
 
 ## Cidades
 
-- [Belo Horizonte](belo-horizonte/)
-- [Brasília](brasilia/)
-- [Cariri](cariri/)
-- [Curitiba](curitiba/)
-- [Fortaleza](fortaleza/)
-- [Joinville](joinville/)
-- [Porto Alegre](porto-alegre/)
-- [Rio de Janeiro](rio-de-janeiro/)
-- [Salvador](salvador/)
-- [São Paulo](sao-paulo/)
-- [Sorocaba](sorocaba/)
+Para inserir sua cidade, basta criar um arquivo `cidade.md` na raíz do projeto e inserir os links dos slides.
+
+Não conhece Markdown? [Esse post](http://blog.da2k.com.br/2015/02/08/aprenda-markdown/) pode te ajudar :-) 
