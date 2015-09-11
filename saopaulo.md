@@ -27,4 +27,16 @@ permalink: /sao-paulo/
 * [Rudá Almeida - Guia prático de sobrevivência no Multisite](http://prezi.com/zqbc8eq8c0xh/guia-pratico-de-sobrevivencia-no-wordpress-multisite)
 * [Valerio Souza - ​Jetpack, um canivete suíço no seu WordPress​](http://www.slideshare.net/valeriosza/jetpack-um-canivete-suo-no-seu-wordpress-wordcamp-so-paulo-2014)
 
+### 2013
+* [Cadu de Castro Alves - Criando Start-ups com WordPress](https://speakerdeck.com/castroalves/criando-start-ups-com-wordpress)
+* [Claudio Sanches - Não é porque funcionou que significa que esta certo (Boas praticas de programação no WordPress)](https://speakerdeck.com/claudiosmweb/nao-e-porque-funcionou-que-significa-que-esta-certo)
+* [Diego Figueiredo Rojas - WordPress no Mundo: modelo de software, de trabalho e de negócio. É possível mensurar seu tamanho?](https://docs.google.com/presentation/d/1sQsT-Ni7Cl_UZZraH2lrJUCai-VrXYCsmEU0VpjOMok/edit)
+* [Guga Alves - SEO para WordPress](http://pt.slideshare.net/gugaalves/seo-parawordpresswordcampsp2013)
+* [Guilherme Mazetto - WordPress Developer: Uma nova profissão?](http://www.slideshare.net/mazettto/wordpress-developer-28549307)
+* [Michele dos Santos da Silva - Criando sites multilíngues com o WPML](https://docs.google.com/presentation/d/1iGVYfZ_ZLWJ7LZaeFEI-C5sK0UH7PP9-NGy3u2frFME/pub?start=false&amp;loop=false&amp;delayms=3000#slide=id.p)
+* [Rodrigo Dantas Santos - Como criar um negócio de Assinaturas usando WordPress](http://www.slideshare.net/VinDi2/como-criar-um-negcio-de-assinaturas-usando-wordpress)
+* [Rodrigo Primo - Gerenciando o WordPress com o WP-CLI](http://rodrigoprimo.github.io/wp-cli-presentation/)
+* [Valério de Souza - Vamos focar no usuário?](http://prezi.com/hekb_io9fyu-)
+* [Vinicius Massuchetto - Desenvolvimento em comunidade: A história técnica e política de um plugin do WordPress](http://vmassuchetto.github.io/2013/11/20/desenvolvimento-em-comunidade-a-historia-tecnica-e-politica-de-um-plugin-no-wordpress/)
+
 ## Meetups
