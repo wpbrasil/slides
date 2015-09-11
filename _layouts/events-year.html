@@ -19,10 +19,18 @@ layout: default
 				{% endif %}
 				<ul class="list-slides">
 					{% for slide in event.slides %}
+						{% assign speaker = site.data.speakers | where: 'id', slide.sid | first %}
 						<li>
 							<h3><a href="{{ slide.url }}" target="_blank" rel="nofollow">{{ slide.title }}</a></h3>
-							<p>Palestrante: <strong>{{ slide.speaker }}</strong></p>
+							<p>Palestrante:
+							{% if speaker %}
+								<a href="{{ speaker.id | prepend: site.dotorg_profile_url }}" target="_blank" rel="nofollow"><b>{{ speaker.name }}</b></a>
+							{% else %}
+								<strong>{{ slide.speaker }}</strong>
+							{% endif %}
+							</p>
 						</li>
+
 					{% endfor %}
 				</ul>
 			</li>

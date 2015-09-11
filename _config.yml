@@ -5,5 +5,7 @@ baseurl: "/slides" # the subpath of your site, e.g. /blog/
 url: "https://wpbrasil.github.io" # the base hostname & protocol for your site
 github_username:  wpbrasil
 
+dotorg_profile_url: "http://profiles.wordpress.org/"
+
 # Build settings
 markdown: kramdown

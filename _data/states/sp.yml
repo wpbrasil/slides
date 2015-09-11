@@ -49,6 +49,7 @@
       video:
 
     - speaker: "Gustavo Bordoni"
+      sid: "bordoni"
       url: "http://slides.com/bordoni/participar-comunidade-wordpress/"
       title: "Faça parte da comunidade WordPress"
       video:
