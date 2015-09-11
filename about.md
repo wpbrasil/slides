@@ -2,6 +2,7 @@
 layout: page
 title: Sobre
 permalink: /sobre/
+menu: true
 ---
 
-Repositório para centralizar os slides apresentados em meetups e WordCamps pelo Brasil.
+Que tal ter um lugar para encontrar palestras apresentadas pelos membros da comunidade WordPress por todo país?
