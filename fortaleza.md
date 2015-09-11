@@ -6,4 +6,4 @@ permalink: /fortaleza/
 
 ## WordCamps
 
-## Metups
+## Meetups

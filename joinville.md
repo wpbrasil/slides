@@ -6,4 +6,4 @@ permalink: /joinville/
 
 ## WordCamps
 
-## Metups
+## Meetups

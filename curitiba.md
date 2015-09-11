@@ -6,4 +6,4 @@ permalink: /curitiba/
 
 ## WordCamps
 
-## Metups
+## Meetups

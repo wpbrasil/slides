@@ -6,4 +6,4 @@ permalink: /sorocaba/
 
 ## WordCamps
 
-## Metups
+## Meetups

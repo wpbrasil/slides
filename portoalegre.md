@@ -6,4 +6,4 @@ permalink: /portoalegre/
 
 ## WordCamps
 
-## Metups
+## Meetups

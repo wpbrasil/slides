@@ -6,4 +6,4 @@ permalink: /brasilia/
 
 ## WordCamps
 
-## Metups
+## Meetups

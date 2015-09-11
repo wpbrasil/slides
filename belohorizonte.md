@@ -6,4 +6,4 @@ permalink: /belo-horizonte/
 
 ## WordCamps
 
-## Metups
+## Meetups

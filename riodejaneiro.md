@@ -6,4 +6,4 @@ permalink: /riodejaneiro/
 
 ## WordCamps
 
-## Metups
+## Meetups

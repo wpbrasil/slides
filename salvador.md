@@ -6,4 +6,4 @@ permalink: /salvador/
 
 ## WordCamps
 
-## Metups
+## Meetups
