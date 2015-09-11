@@ -10,7 +10,7 @@ layout: default
 
 	<article class="post-content">
 		<ul class="post-list">
-			{% for event in site.data.states.[page.id] %}
+			{% for event in site.data.places.[page.id] %}
 			<li class="type-{{ event.type }}">
 				{% if event.type == 'wordcamp' %}
 					<h2 id="wc-{{ event.year }}"><a href="{{ event.url }}" target="_blank" rel="nofollow">WordCamp {{ event.date | date: "%Y &mdash; %d/%m" }}</a></h2>
