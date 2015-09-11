@@ -224,3 +224,22 @@
         }
     }
 }
+
+
+/**
+ * Slides
+ */
+
+
+.list-slides {
+    > li {
+        margin-bottom: 20px;
+        h3 {
+            font-size: 1.2em;
+            margin-bottom: 5px;
+            + p {
+                font-size: 0.9em;
+            }
+        }
+    }
+}

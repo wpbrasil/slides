@@ -8,9 +8,8 @@ layout: default
 
   <ul class="post-list">
     {% for page in site.pages %}
-      {% if page.menu %}
-      {% else %}
-        <li>
+      {% if page.layout == "events-year" %}
+        <li id="{{ page.id }}">
           <h2>
             <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           </h2>
