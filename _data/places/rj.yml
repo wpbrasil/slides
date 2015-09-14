@@ -10,54 +10,54 @@
     - speaker: "Herick Correa"
       url: "http://pt.slideshare.net/herickcorrea1/criando-templates-em-wordpress"
       title: "Como desenvolver templates com design original e exclusivo para WP, e também ter um Admin amigável para o seu cliente"
-      video:
+      video: https://www.youtube.com/watch?v=MbS1Kuy_85c
 
     - speaker: Valério Souza
       url: http://pt.slideshare.net/valeriosza/jetpack-deixando-seu-wordpress-um-jato-em-15-minutos-small-talk
       title: Jetpack, deixando seu WordPress um jato em 15 minutos
-      video:
+      video: https://www.youtube.com/watch?v=KyZeaXT8TYQ
 
     - speaker: Rafael Funchal
       url: http://pt.slideshare.net/rafaelfunchal/newsletters-no-wordpress
       title: Newsletters no WordPress
-      video:
+      video: https://www.youtube.com/watch?v=YEpxW7oCu78
 
     - speaker: Fernando Ticon
       url: http://pt.slideshare.net/nandoticon/podcast-no-wordpress-fernando-ticon
       title: Podcast no WordPress! Aprenda como publicar seu podcast e criar um feed no iTunes, utilizando a plataforma WordPress e seus plugins!
-      video:
+      video: https://www.youtube.com/watch?v=ktvXGrZScGo
 
     - speaker: Anilton Veiga
       url: http://pt.slideshare.net/aniltonveiga/woocommerce-egestaowcriodejaneiro
       title: WooCommerce, muito além de um plugin. Um case brasileiro de sucesso com o WooCommerce
-      video:
+      video: https://www.youtube.com/watch?v=qpmW-LzaOqg
 
     - speaker: Rodrigo Primo
       url: http://rodrigoprimo.github.io/wp-cli-wordcamp-rj-2014/
       title: Introdução ao WP-CLI, uma interface de linha de comando que auxilia nas tarefas de desenvolvimento e manutenção de um site WordPress
-      video:
+      video: https://www.youtube.com/watch?v=8sAw7F4SKvQ
 
     - speaker: Claudio Sanches
       url: https://speakerdeck.com/claudiosmweb/woocommerce-como-solucao-para-pequenos-e-grandes-e-commerces
       title: WooCommerce como solução para pequenos e grandes e-commerces
-      video:
+      video: https://www.youtube.com/watch?v=IrGJMjnVLio
 
     - speaker: Michele Silva
       url: https://speakerdeck.com/mchelem/15-coisas-sobre-php-para-saber-antes-de-morrer
       title: 15 coisas sobre PHP para saber antes de morrer
-      video:
+      video: https://www.youtube.com/watch?v=v0xt17-lrb4
 
     - speaker: Leo Baiano
       url: http://pt.slideshare.net/leobaiano1/montando-um-ambiente-de-desenvolvimento-wordpress-utilizando-composer-e-git
       title: Montando um ambiente de desenvolvimento WordPress utilizando Composer e Git
-      video:
+      video: https://www.youtube.com/watch?v=vGWFlG10YFM
 
     - speaker: Cayo Medeiros
       url: http://pt.slideshare.net/yogodoshi/tem-uma-idia-de-um-projeto-desenvolva-em-1-final-de-semana-num-hackathon
       title: Tem uma ideia de um projeto? Você pode desenvolve-lo em apenas 1 final de semana!
-      video:
+      video: https://www.youtube.com/watch?v=fSOamVlqWLA
 
     - speaker: Deblyn Prado
       url: http://pt.slideshare.net/DeblynPrado/comunidade-e-contribuio
       title: Comunidade e Contribuições
-      video:
+      video: https://www.youtube.com/watch?v=7APjyth9fqE
