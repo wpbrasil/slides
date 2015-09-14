@@ -98,53 +98,53 @@
   date: 2013-11-23
   url: https://saopaulo.wordcamp.org/2013/
   slides:
-    - speaker: Cadu de Castro Alves
-      url: https://speakerdeck.com/castroalves/criando-start-ups-com-wordpress
-      title: Criando Start-ups com WordPress
+    - speaker: "Cadu de Castro Alves"
+      url: "https://speakerdeck.com/castroalves/criando-start-ups-com-wordpress"
+      title: "Criando Start-ups com WordPress"
       video:
 
-    - speaker: Claudio Sanches
-      url: https://speakerdeck.com/claudiosmweb/nao-e-porque-funcionou-que-significa-que-esta-certo
-      title: Não é porque funcionou que significa que esta certo (Boas praticas de programação no WordPress)
+    - speaker: "Claudio Sanches"
+      url: "https://speakerdeck.com/claudiosmweb/nao-e-porque-funcionou-que-significa-que-esta-certo"
+      title: "Não é porque funcionou que significa que esta certo (Boas praticas de programação no WordPress)"
       video:
 
-    - speaker: Diego Figueiredo Rojas
-      url: https://docs.google.com/presentation/d/1sQsT-Ni7Cl_UZZraH2lrJUCai-VrXYCsmEU0VpjOMok/edit
+    - speaker: "Diego Figueiredo Rojas"
+      url: "https://docs.google.com/presentation/d/1sQsT-Ni7Cl_UZZraH2lrJUCai-VrXYCsmEU0VpjOMok/edit"
       title: "WordPress no Mundo: modelo de software, de trabalho e de negócio. É possível mensurar seu tamanho?"
       video:
 
-    - speaker: Guga Alves
-      url: http://pt.slideshare.net/gugaalves/seo-parawordpresswordcampsp2013
-      title: SEO para WordPress
+    - speaker: "Guga Alves"
+      url: "http://pt.slideshare.net/gugaalves/seo-parawordpresswordcampsp2013"
+      title: "SEO para WordPress"
       video:
 
-    - speaker: Guilherme Mazetto
-      url: http://www.slideshare.net/mazettto/wordpress-developer-28549307
+    - speaker: "Guilherme Mazetto"
+      url: "http://www.slideshare.net/mazettto/wordpress-developer-28549307"
       title: "WordPress Developer: Uma nova profissão?"
       video:
 
-    - speaker: Michele dos Santos da Silva
+    - speaker: "Michele dos Santos da Silva"
       url: "https://docs.google.com/presentation/d/1iGVYfZ_ZLWJ7LZaeFEI-C5sK0UH7PP9-NGy3u2frFME/pub?start=false&amp;loop=false&amp;delayms=3000#slide=id.p"
-      title: Criando sites multilíngues com o WPML
+      title: "Criando sites multilíngues com o WPML"
       video:
 
-    - speaker: Rodrigo Dantas Santos
-      url: http://www.slideshare.net/VinDi2/como-criar-um-negcio-de-assinaturas-usando-wordpress
-      title: Como criar um negócio de Assinaturas usando WordPress
+    - speaker: "Rodrigo Dantas Santos"
+      url: "http://www.slideshare.net/VinDi2/como-criar-um-negcio-de-assinaturas-usando-wordpress"
+      title: "Como criar um negócio de Assinaturas usando WordPress"
       video:
 
-    - speaker: Rodrigo Primo
-      url: http://rodrigoprimo.github.io/wp-cli-presentation/
-      title: Gerenciando o WordPress com o WP-CLI
+    - speaker: "Rodrigo Primo"
+      url: "http://rodrigoprimo.github.io/wp-cli-presentation/"
+      title: "Gerenciando o WordPress com o WP-CLI"
       video:
 
-    - speaker: Valério de Souza
-      url: http://prezi.com/hekb_io9fyu-
+    - speaker: "Valério de Souza"
+      url: "http://prezi.com/hekb_io9fyu-"
       title: "Vamos focar no usuário?"
       video:
 
-    - speaker: Vinicius Massuchetto
-      url: http://vmassuchetto.github.io/2013/11/20/desenvolvimento-em-comunidade-a-historia-tecnica-e-politica-de-um-plugin-no-wordpress/
+    - speaker: "Vinicius Massuchetto"
+      url: "http://vmassuchetto.github.io/2013/11/20/desenvolvimento-em-comunidade-a-historia-tecnica-e-politica-de-um-plugin-no-wordpress/"
       title: "Desenvolvimento em comunidade: A história técnica e política de um plugin do WordPress"
       video:
 
@@ -158,32 +158,32 @@
       title: "Malware e Segurança em WordPress"
       video: "http://wordpress.tv/2012/10/01/bruno-borges-malware-e-seguranca-em-wordpress/"
 
-    - speaker: Cátia Kitahara
-      url: http://catiakitahara.com.br/palestras/wordpress-para-webdesigners
+    - speaker: "Cátia Kitahara"
+      url: "http://catiakitahara.com.br/palestras/wordpress-para-webdesigners"
       title: "WordPress para Webdesigners: Classes e IDs gerados automaticamente"
       video:
 
-    - speaker: Marcelo Mesquita
-      url: http://prezi.com/fxxifxoleavh/wordpress-com-multisites-integrados/
-      title: WordPress com Multisites Integrados
+    - speaker: "Marcelo Mesquita"
+      url: "http://prezi.com/fxxifxoleavh/wordpress-com-multisites-integrados/"
+      title: "WordPress com Multisites Integrados"
       video:
 
     - speaker: "Matías Ventura"
-      url: ""
+      url: 
       title: "Diseñando un Theme con Underscores"
       video: "http://wordpress.tv/2012/10/03/uploaded-video-2/"
 
-    - speaker: Mayara Alanna Pereira Martins
-      url: http://www.slideshare.net/mayaraalanna/gerenciamento-de-sitesblogs-com-o-wordpress-34
-      title: Gerenciamento de sites/blogs com o WordPress 3.4
+    - speaker: "Mayara Alanna Pereira Martins"
+      url: "http://www.slideshare.net/mayaraalanna/gerenciamento-de-sitesblogs-com-o-wordpress-34"
+      title: "Gerenciamento de sites/blogs com o WordPress 3.4"
       video:
 
     - speaker: "Rafael Ehlers"
-      url: ""
+      url: 
       title: "E-commerce no WordPress utilizando PayPal e PagSeguro"
       video: "http://wordpress.tv/2012/10/02/rafael-ehlers-e-commerce-no-wordpress-utilizando-paypal-e-pagseguro/"
 
-    - speaker: Ricardo Moraleida
-      url: https://www.slideshare.net/moraleida/theme-review-e-unit-test-wordcamp-sp-2012/
-      title: "Theme Review e Unit Test: “O” guia de boas práticas para temas"
+    - speaker: "Ricardo Moraleida"
+      url: "https://www.slideshare.net/moraleida/theme-review-e-unit-test-wordcamp-sp-2012/"
+      title: "Theme Review e Unit Test: 'O' guia de boas práticas para temas"
       video: "http://wordpress.tv/2012/10/03/ricardo-moraleida/"
