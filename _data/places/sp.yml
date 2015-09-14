@@ -104,6 +104,7 @@
       video:
 
     - speaker: "Claudio Sanches"
+      sid: "claudiosanches"
       url: "https://speakerdeck.com/claudiosmweb/nao-e-porque-funcionou-que-significa-que-esta-certo"
       title: "Não é porque funcionou que significa que esta certo (Boas praticas de programação no WordPress)"
       video: "https://www.youtube.com/watch?v=jXOhSsrLf2Q"
@@ -169,7 +170,7 @@
       video:
 
     - speaker: "Matías Ventura"
-      url: 
+      url:
       title: "Diseñando un Theme con Underscores"
       video: "http://wordpress.tv/2012/10/03/uploaded-video-2/"
 
@@ -179,7 +180,7 @@
       video:
 
     - speaker: "Rafael Ehlers"
-      url: 
+      url:
       title: "E-commerce no WordPress utilizando PayPal e PagSeguro"
       video: "http://wordpress.tv/2012/10/02/rafael-ehlers-e-commerce-no-wordpress-utilizando-paypal-e-pagseguro/"
 
