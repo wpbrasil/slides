@@ -106,17 +106,17 @@
     - speaker: "Claudio Sanches"
       url: "https://speakerdeck.com/claudiosmweb/nao-e-porque-funcionou-que-significa-que-esta-certo"
       title: "Não é porque funcionou que significa que esta certo (Boas praticas de programação no WordPress)"
-      video:
+      video: "https://www.youtube.com/watch?v=jXOhSsrLf2Q"
 
     - speaker: "Diego Figueiredo Rojas"
       url: "https://docs.google.com/presentation/d/1sQsT-Ni7Cl_UZZraH2lrJUCai-VrXYCsmEU0VpjOMok/edit"
       title: "WordPress no Mundo: modelo de software, de trabalho e de negócio. É possível mensurar seu tamanho?"
-      video:
+      video: "https://www.youtube.com/watch?v=uRsosQK0MfI"
 
     - speaker: "Guga Alves"
       url: "http://pt.slideshare.net/gugaalves/seo-parawordpresswordcampsp2013"
       title: "SEO para WordPress"
-      video:
+      video: "https://www.youtube.com/watch?v=lEIs91x4OyE"
 
     - speaker: "Guilherme Mazetto"
       url: "http://www.slideshare.net/mazettto/wordpress-developer-28549307"
@@ -141,7 +141,7 @@
     - speaker: "Valério de Souza"
       url: "http://prezi.com/hekb_io9fyu-"
       title: "Vamos focar no usuário?"
-      video:
+      video: "https://www.youtube.com/watch?v=1eBYLuuzabg"
 
     - speaker: "Vinicius Massuchetto"
       url: "http://vmassuchetto.github.io/2013/11/20/desenvolvimento-em-comunidade-a-historia-tecnica-e-politica-de-um-plugin-no-wordpress/"
