@@ -21,13 +21,27 @@ layout: default
 					{% for slide in event.slides %}
 						{% assign speaker = site.data.speakers | where: 'id', slide.sid | first %}
 						<li>
-							<h3><a href="{{ slide.url }}" target="_blank" rel="nofollow">{{ slide.title }}</a></h3>
-							<p>Palestrante:
-							{% if speaker %}
-								<a href="{{ speaker.id | prepend: site.dotorg_profile_url }}" target="_blank" rel="nofollow"><b>{{ speaker.name }}</b></a>
-							{% else %}
-								<strong>{{ slide.speaker }}</strong>
-							{% endif %}
+							<h3>{{ slide.title }}</h3>
+							<ul>
+								<li>Palestrante:
+									{% if speaker %}
+										<a href="{{ speaker.id | prepend: site.dotorg_profile_url }}" title="Perfil de {{ speaker.name }}" target="_blank" rel="nofollow"><b>{{ speaker.name }}</b></a>
+									{% else %}
+										<strong>{{ slide.speaker }}</strong>
+									{% endif %}
+								</li>
+								{% if slide.url %}
+									<li>
+										<a href="{{ slide.url }}" title="Slides de {{ slide.title }}" target="_blank" rel="nofollow">Slides</a>
+									</li>
+								{% endif %}
+								{% if slide.video %}
+									<li>
+										<a href="{{ slide.video }}" title="Vídeo de {{ slide.title }}" target="_blank" rel="nofollow">Vídeo</a>
+									</li>
+								{% endif %}
+							</ul>
+							<p>
 							</p>
 						</li>
 
