@@ -6,7 +6,7 @@
     - speaker: "Airton Vancin e Raphael Fabeni"
       url: "https://speakerdeck.com/raphaelfabeni/do-inicio-ao-fim-com-wordpress"
       title: "Do início ao fim com WordPress: Planejamento, desenvolvimento e desafios"
-      video:
+      video: "http://wordpress.tv/2014/12/04/airton-vancin-e-raphael-fabeni-do-inicio-ao-fim-com-wordpress-planejamento-desenvolvimento-e-desafios/"
 
     - speaker: "Allyson Souza"
       url: "http://www.slideshare.net/hastedesign/custom-post-types-custom-taxonomies-e-meta-boxes"
@@ -26,12 +26,12 @@
     - speaker: "Breno Alves"
       url: "http://www.slideshare.net/brenoalvs/como-eu-aprendo-wordpress-40552327"
       title: "Como eu aprendo WordPress?"
-      video:
+      video: "http://wordpress.tv/2014/11/20/breno-alves-como-eu-aprendo-wordpress/"
 
     - speaker: "Deblyn Prado e Rafael Funchal"
       url: "http://www.slideshare.net/rafaelfunchal/fazendo-milagres-com-wordpress"
       title: "Fazendo milagres com WordPress"
-      video:
+      video: "http://wordpress.tv/2014/12/04/deblyn-prado-e-rafael-funchal-fazendo-milagres-com-wordpress/"
 
     - speaker: "Diego Brito"
       url: "http://www.slideshare.net/diegodebrito/layout-vs-resultado-challenge-accepted"
@@ -41,12 +41,12 @@
     - speaker: "Fernando Daciuk"
       url: "https://docs.google.com/presentation/d/1gmLbtccBQE2y4ILJ5b4qok9Ai4-DXEsC-311Y5epX2Y/edit?usp=sharing"
       title: "Um gole de otimização no WordPress"
-      video:
+      video: "http://wordpress.tv/2014/12/03/fernando-daciuk-um-gole-de-otimizacao-no-wordpress/"
 
     - speaker: "Guga Alves"
       url: "http://www.slideshare.net/gugaalves/campos-personalizados-like-a-pro-wordcamp-so-paulo-2014"
       title: "Campos personalizados like a pro: conheça o Advanced Custom Fields"
-      video:
+      video: "http://wordpress.tv/2014/12/04/guga-alves-campos-personalizados-like-a-pro-conheca-o-advanced-custom-fields/"
 
     - speaker: "Gustavo Bordoni"
       sid: "bordoni"
@@ -67,22 +67,22 @@
     - speaker: "Leo Baiano"
       url: "http://www.slideshare.net/leobaiano1/dicas-e-truques-para-desenvolver-projetos-web-utilizando-wordpress"
       title: "Dicas e truques para desenvolver projetos WEB utilizando WordPress"
-      video:
+      video: "http://wordpress.tv/2014/12/04/leo-baiano-dicas-e-truques-para-desenvolver-projetos-web-utilizando-wordpress/"
 
     - speaker: "Leo Germani"
       url: "https://github.com/leogermani/apresentacao-planejando-projeto-wp"
       title: "Um guia prático para planejar seu projeto WordPress"
-      video:
+      video: "http://wordpress.tv/2014/12/04/leo-germani-um-guia-pratico-para-planejar-seu-projeto-wordpress/"
 
     - speaker: "Rômulo Zoch"
       url: "http://www.slideshare.net/romulozoch/usando-wordpresscomoapirestwordcampsp2014romulozoch"
       title: "Usando o Wordpress como API para servir um mundo de dispositivos"
-      video:
+      video: "http://wordpress.tv/2014/12/04/romulo-zoch-usando-o-wordpress-como-api-para-servir-um-mundo-de-dispositivos/"
 
     - speaker: "Ruan Barbosa"
       url: "http://www.slideshare.net/seuruan/wordcamp-sp-2014-seo-para-desenvolvedores-wordpress-40491255"
       title: "SEO para Desenvolvedores"
-      video:
+      video: "http://wordpress.tv/2014/12/04/ruan-barbosa-seo-para-desenvolvedores/"
 
     - speaker: "Rudá Almeida"
       url: "http://prezi.com/zqbc8eq8c0xh/guia-pratico-de-sobrevivencia-no-wordpress-multisite"
@@ -156,7 +156,7 @@
     - speaker: "Bruno Borges"
       url: "http://prezi.com/-jnj0csivv94/wordcamp-sp-2012/"
       title: "Malware e Segurança em WordPress"
-      video:
+      video: "http://wordpress.tv/2012/10/01/bruno-borges-malware-e-seguranca-em-wordpress/"
 
     - speaker: Cátia Kitahara
       url: http://catiakitahara.com.br/palestras/wordpress-para-webdesigners
@@ -168,12 +168,22 @@
       title: WordPress com Multisites Integrados
       video:
 
+    - speaker: "Matías Ventura"
+      url: ""
+      title: "Diseñando un Theme con Underscores"
+      video: "http://wordpress.tv/2012/10/03/uploaded-video-2/"
+
     - speaker: Mayara Alanna Pereira Martins
       url: http://www.slideshare.net/mayaraalanna/gerenciamento-de-sitesblogs-com-o-wordpress-34
       title: Gerenciamento de sites/blogs com o WordPress 3.4
       video:
 
+    - speaker: "Rafael Ehlers"
+      url: ""
+      title: "E-commerce no WordPress utilizando PayPal e PagSeguro"
+      video: "http://wordpress.tv/2012/10/02/rafael-ehlers-e-commerce-no-wordpress-utilizando-paypal-e-pagseguro/"
+
     - speaker: Ricardo Moraleida
       url: https://www.slideshare.net/moraleida/theme-review-e-unit-test-wordcamp-sp-2012/
       title: "Theme Review e Unit Test: “O” guia de boas práticas para temas"
-      video:
+      video: "http://wordpress.tv/2012/10/03/ricardo-moraleida/"
