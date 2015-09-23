@@ -1,6 +1,38 @@
 - type: wordcamp
   date: 2015-08-29
   url: https://riodejaneiro.wordcamp.org/2015/
+  slides:
+    - speaker: "Raphael Amorim"
+        url: "https://speakerdeck.com/raphamorim/500-days-of-open-source"
+        title: "500 Days of Open Source"
+
+    - speaker: "Gustavo Bordoni"
+        url: "http://slides.com/bordoni/entenda-como-funciona-um-bom-servidor-para-o-seu-negcio-em-wordpress"
+        title: "Entenda como funciona um bom servidor para o seu negócio em WordPress"
+
+    - speaker: "Bruno Figueiredo"
+        url: "http://www.slideshare.net/BrunoFigueiredo25/estratgia-de-contedo-para-seo"
+        title: "Estratégia de conteúdo para SEO: lapidando a relevância de palavras-chave"
+
+    - speaker: "Leandro Cicarelli"
+        url: "http://pt.slideshare.net/leandrociccarelli1/wordcamp-rj-2015-a-importncia-do-designux-para-os-desenvolvedores-de-wordpress"
+        title: "A importância do Design/UX para os desenvolvedores de WordPress"
+
+    - speaker: "Karen Arnold e Erica Varlese"
+        url: "http://pt.slideshare.net/karenalma/engineering-happiness"
+        title: "Engineering happiness: bridging the gap between developers and customers"
+
+    - speaker: "Vinícius Lourenço"
+        url: "http://pt.slideshare.net/vilourenco/vincius-loureno-desenvolvendo-plugins-para-automatizaes"
+        title: "Desenvolvendo plugins para automatizações"
+
+    - speaker: "Hans Paul Mosl"
+        url: "http://pt.slideshare.net/hansmosl/web-design-responsivo-wordcamprj-2015"
+        title: "Dicas para projetar um site Responsivo de qualidade"
+
+    - speaker: "Rodrigo Primo"
+        url: "https://speakerdeck.com/rodrigoprimo/como-contribuir-com-o-desenvolvimento-do-core-do-wordpress"
+        title: "Contribuindo com o Core do WordPress"
 
 
 - type: wordcamp
