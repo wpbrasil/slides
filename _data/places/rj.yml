@@ -7,6 +7,7 @@
       title: "500 Days of Open Source"
 
     - speaker: "Gustavo Bordoni"
+      sid: bordoni
       url: "http://slides.com/bordoni/entenda-como-funciona-um-bom-servidor-para-o-seu-negcio-em-wordpress"
       title: "Entenda como funciona um bom servidor para o seu negócio em WordPress"
 
