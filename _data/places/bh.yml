@@ -1,0 +1,86 @@
+- type: wordcamp
+  date: 2014-05-17
+  url: https://belohorizonte.wordcamp.org/2014/
+  slides:
+    - speaker: "Pedro Marques"
+      url: "http://www.slideshare.net/pedromarks41/word-camp-34883292"
+      title: "UX para desenvolvedores"
+
+    - speaker: "Fernando Daciuk"
+      url: "https://docs.google.com/presentation/d/1-J8IomiCFn33wWT_7Ep7hY_2dR-WvFJ2jcYm2RUeSJ0/edit"
+      title: "Um gole de otimização no WordPress"
+
+    - speaker: "Lucas Junqueira"
+      url: "http://www.managana.org/player/?c=WordCamp2014"
+      title: "WordPress como fonte de informação para outras aplicações"
+
+    - speaker: "Claudio Sanches"
+      sid: "claudiosanches"
+      url: "https://speakerdeck.com/claudiosmweb/aprenda-a-criar-uma-loja-com-o-woocommerce"
+      title: "Aprenda a criar uma loja com WooCommerce e veja as novidades da versão 2.1.0"
+
+    - speaker: "Mayara Alanna"
+      url: "http://pt.slideshare.net/mayaraalanna/word-camp-bh-os-recursos-mais-fodsticos-do-painel-administrativo-do-wordpress-34833402"
+      title: "Os recursos mais fodásticos do painel administrativo do WordPress"
+
+    - speaker: "Mazetto"
+      url: "http://www.slideshare.net/mazettto/truques-de-integrao-do-wordpress-com-seu-negcio"
+      title: "Truques de integração do WordPress com seu modelo de negócio"
+
+    - speaker: "Rafael Funchal"
+      sid: "rafaelfunchal"
+      url: "http://www.slideshare.net/rafaelfunchal/odin-um-framework-que-chuta-bundas"
+      title: "Odin: Um framework que chuta bundas!"
+
+    - speaker: "Bruno Borges"
+      url: "https://speakerdeck.com/brunoaborges/analise-de-infeccoes-no-wordpress-wordcampbh14"
+      title: "Analise de infecções e proteções para o WordPress"
+
+    - speaker: "Cadu Castro"
+      url: "https://speakerdeck.com/castroalves/desenvolvimento-de-aplicativos-mobile-com-wordpress"
+      title: "Desenvolvendo Aplicativos Mobile com WordPress"
+
+    - speaker: "Daniel Glik"
+      url: "http://www.slideshare.net/danielglik/a-fantstica-fbrica-de-websites-wordpress"
+      title: "A fantástica fábrica de websites"
+
+    - speaker: "Lenon Leite"
+      url: "http://prezi.com/8zhoixof1_ji/pentest-no-wordpress/"
+      title: "Encontrando e explorando vulnerabilidades em seu WordPress" 
+
+    - speaker: "Pedro Marques"
+      url: "http://www.slideshare.net/pedromarks41/word-camp-34883292"
+      title: "UX para desenvolvedores"
+
+    - speaker: "Michele Santos"
+      url: "https://speakerdeck.com/mchelem/teste-cabra-da-peste"
+      title: "Teste, cabra da peste! (introdução ao WP Unit Test)"
+
+    - speaker: "Guga Alves"
+      url: "http://pt.slideshare.net/gugaalves/wordpress-em-sua-estratgiademarketing"
+      title: "Utilizando o WordPress em sua estratégia de marketing"
+
+    - speaker: "Rodrigo Primo"
+      url: "http://rodrigoprimo.github.io/wp-cli-wordcamp-bh-2014/"
+      title: "Gerenciando o WordPress com o WP-CLI"    
+
+    - speaker: "Luan Muniz"
+      url: "http://slides.com/luanmuniz/quero-contribuir-as-dificuldades-de-contribuir"
+      title: "Quero Contribuir"       
+
+    - speaker: "Celso Fernandes"
+      url: "http://www.slideshare.net/CelsoFernandes1/wordcamp-bh-2014"
+      title: "Reduzir o tempo de resposta do servidor"                    
+
+    - speaker: "Fioravante Souza"
+      url: "https://speakerdeck.com/fioravantesouza/cenario-de-ameacas-web-wordcamp-bh"
+      title: "Cenário de ameaças web e WordPress"
+
+    - speaker: "Felipe Tanus"
+      url: "http://pt.slideshare.net/WordCampBH/localize-e-seja-localizado-wordcamp-bh"
+      title: "Traduzindo seu conteúdo com WPML + ICanLocalize "    
+
+    - speaker: "Gustavo Bordoni"
+      sid: bordoni
+      url: "http://slides.com/bordoni/wordcamp-bh-2014"
+      title: "Desenvolvimento consciente para Plugins"                                                                   
