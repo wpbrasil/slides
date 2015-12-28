@@ -1,4 +1,125 @@
 - type: wordcamp
+  date: 2015-11-28
+  url: https://saopaulo.wordcamp.org/2015/
+  slides:
+
+    - speaker: "Sthefan Berwanger"
+      url: "http://pt.slideshare.net/sthefan/palestra-wordcampsp-seo-estratgico-com-foco-em-negcios"
+      title: "SEO Estratégico com Foco em Negócios"
+      video: ""
+
+    - speaker: "Nícholas André"
+      url: "http://pt.slideshare.net/nicholasandreio/dominando-o-customizer"
+      title: "Dominando o customizer"
+      video: ""
+
+    - speaker: "Pablo Ribeiro"
+      url: "http://pt.slideshare.net/agenciam3/woocommerce-do-desenvolvimento-converso"
+      title: "WooCommerce do desenvolvimento à conversão"
+      video: ""
+
+    - speaker: "Juliana Lewis"
+      url: "http://pt.slideshare.net/SucuriSecurity/seguranca-de-wordpress"
+      title: "Segurança de WordPress"
+      video: ""
+
+    - speaker: "Juliana Sales"
+      url: "http://pt.slideshare.net/garciasales/vamos-criar-redes-fora-das-redes-sociais"
+      title: "Vamos criar redes fora das redes sociais?"
+      video: ""
+
+    - speaker: "Rafael Funchal"
+      sid: "rafaelfunchal"
+      url: "http://pt.slideshare.net/rafaelfunchal/vamos-falar-de-traducao"
+      title: "Vamos falar de tradução?"
+      video: ""
+
+    - speaker: "Rodrigo Primo"
+      url: "https://speakerdeck.com/rodrigoprimo/como-contribuir-com-o-desenvolvimento-do-core-do-wordpress"
+      title: "Como contribuir com o desenvolvimento do core do WordPress"
+      video: ""
+
+    - speaker: "Leonardo Velozo"
+      url: "http://pt.slideshare.net/LeonardoVelozo/teste-ab"
+      title: "Teste A/B"
+      video: ""
+
+    - speaker: "Fernando Daciuk"
+      url: "http://pt.slideshare.net/fdaciuk/wordpress-realtime-wordcamp-so-paulo-2015"
+      title: "WordPress Realtime"
+      video: ""
+
+    - speaker: "Rosália Oliveira"
+      url: "https://pt.slideshare.net/secret/EjTpZz6zGwhaBo"
+      title: "Planejamento de conteúdo para blogs"
+      video: ""
+
+    - speaker: "Marco Frasson"
+      url: "http://pt.slideshare.net/marcofrassonweb/design-para-quem-no-designer-wordcamp-sp-marco-frasson"
+      title: "Design para quem não é Designer"
+      video: ""
+
+    - speaker: "Leo Baiano"
+      url: "http://pt.slideshare.net/leobaiano1/construindo-sites-e-sistemas-com-wordpress"
+      title: "Construindo sites e sistemas com WordPress"
+      video: ""
+
+    - speaker: "Marcos Schratzenstaller"
+      url: "http://pt.slideshare.net/marksabbath/wpcli-56418839"
+      title: "WP-CLI para iniciantes"
+      video: ""
+
+    - speaker: "Mellina Passi"
+      url: "http://pt.slideshare.net/mellpassi/ux-muito-alm-da-ui"
+      title: "UX muito além da UI"
+      video: ""
+
+    - speaker: "Edison Costa"
+      url: "http://pt.slideshare.net/edisonpcosta/ambiente-de-desenvolvimento-para-aplicaes-em-wordpress-com-vagrant-composer-e-gitrevisr"
+      title: "Ambiente de desenvolvimento para aplicações em WordPress com Vagrant, Composer e Git"
+      video: ""
+
+    - speaker: "Cristal Bittencourt"
+      url: "http://pt.slideshare.net/CristalBittencourt/workflow-da-criao-de-contedo-cristal-bittencourt"
+      title: "Workflow da criação de conteúdo "
+      video: ""
+
+    - speaker: "Tiago Hillebrandt"
+      url: "http://pt.slideshare.net/tiagohillebrandt/melhorando-o-desempenho-do-seu-wordpress-55655313"
+      title: "Melhorando o desempenho do seu WordPress"
+      video: ""
+
+    - speaker: "Ruan Barbosa"
+      url: "http://pt.slideshare.net/seuruan/wordcamp-sp-2015-estratgia-de-seo-para-seu-projeto-em-wordpress"
+      title: "Estratégia de SEO para seu projeto em WordPress"
+      video: ""
+
+    - speaker: "Allyson Alves de Souza"
+      url: "https://speakerdeck.com/allysonsouza/o-caminho-para-valhalla-atraves-do-odin-framework"
+      title: "O caminho para Valhalla através do Odin Framework"
+      video: ""
+
+    - speaker: "Northon Torga"
+      url: "https://prezi.com/workl4puadtk/nas-nuvens-like-a-boss"
+      title: "Nas Nuvens Like a Boss"
+      video: ""
+
+    - speaker: "Priscilla Saldanha"
+      url: "http://pt.slideshare.net/psaldanha11/personal-branding-atravs-dos-blogs-wordcampsp-2015-55607157"
+      title: "Personal Branding através dos Blogs"
+      video: ""
+
+    - speaker: "Matheus Petroni"
+      url: "http://pt.slideshare.net/MatheusPetroni/apresentao-rest-api-55765500"
+      title: "Iniciando com a Rest API - Uma introdocução ao futuro do WordPress"
+      video: ""
+
+    - speaker: "Anyssa Ferreira"
+      url: "http://pt.slideshare.net/anyssaferreira/elo-perdido-entre-design-e-programao-55719661"
+      title: "Elo perdido entre design e programação"
+      video: ""
+
+- type: wordcamp
   date: 2014-09-18
   url: https://saopaulo.wordcamp.org/2014/
   slides:
@@ -148,7 +269,6 @@
       url: "http://vmassuchetto.github.io/2013/11/20/desenvolvimento-em-comunidade-a-historia-tecnica-e-politica-de-um-plugin-no-wordpress/"
       title: "Desenvolvimento em comunidade: A história técnica e política de um plugin do WordPress"
       video:
-
 
 - type: wordcamp
   date: 2012-08-25
