@@ -7,6 +7,11 @@
   id: "bordoni"
   email: "gustavo@bordoni.me"
   site: "http://bordoni.me"
+  
+- name: "Leo Baiano"
+  id: "leobaiano"
+  email: "ljunior2005@gmail.com"
+  site: "https://medium.com/@leobaiano"
 
 - name: "Rafael Funchal"
   id: "rafaelfunchal"
