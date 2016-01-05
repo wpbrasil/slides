@@ -1,4 +1,83 @@
 - type: wordcamp
+  date: 2015-06-13
+  url: https://belohorizonte.wordcamp.org/2015/
+  slides:
+    - speaker: "Leonardo Passos"
+      url: "http://afirmacomunicacao.com.br/wp-content/uploads/2015/06/Palestra-P%C3%A1ginas-8-vezes-mais-persuasivas.pdf"
+      title: "Páginas 8 vezes mais persuasivas "
+
+    - speaker: "Rafael Funchal"
+      sid: "rafaelfunchal"
+      url: "http://pt.slideshare.net/rafaelfunchal/como-enviar-newsletters-no-wordpress"
+      title: "Newsletters no WordPress"
+
+    - speaker: "Rodrigo Primo"
+      url: "https://drive.google.com/file/d/0B6MEmF7H4wS9anFlVTlSVWJTOGgzLS1CZkg5Nm56Wk50dzBr/view?usp=sharing"
+      title: "Como contribuir com o desenvolvimento do core do WordPress e do WP-CLI"
+
+    - speaker: "Leonardo Velozo"
+      url: "http://pt.slideshare.net/LeonardoVelozo/teste-ab"
+      title: "Teste A/B"
+
+    - speaker: "Breno Alves"
+      url: "http://pt.slideshare.net/brenoalvs/sweet-child-o-themes"
+      title: "Sweet Child O’ Themes"
+
+    - speaker: "Fellyph Cintra"
+      url: "http://pt.slideshare.net/fellyph/do-marketplace-ao-wordpress-wordcamp-bh-2015"
+      title: "Do marketplace para WordPress, dicas de desenvolvimento Front-End"
+
+    - speaker: "Anyssa Ferreira"
+      url: "http://pt.slideshare.net/anyssaferreira/design-para-wordpress-anyssa-ferreira-wordcamp-bh-2015"
+      title: "Design para WordPress – Como desenvolver layouts para WordPress"
+
+    - speaker: "Fernando Daciuk"
+      url: "https://docs.google.com/presentation/d/1ec-JpzrGDAfm6VM7RG8VZqTk-J34ZIEo70ZkLN2gYIg/present#slide=id.g324d53eb4_0_14"
+      title: "WordPress Real Time"
+
+    - speaker: "Pablo Machado"
+      url: "http://pt.slideshare.net/nauweb/wordpress-para-gestores-de-contedo-wordcamp-bh-2015"
+      title: "WordPress para gestores de conteúdo "
+
+    - speaker: "Daniel Coscarelli"
+      url: "http://pt.slideshare.net/DanielCoscarelli/mtodo-the-bridge"
+      title: "Método The Bridge "
+
+    - speaker: "Nara Grilo"
+      url: "http://pt.slideshare.net/naragrilo/fuja-do-ciclo-vicioso-do-contedo-sem-valor-49348672"
+      title: "Fuja Do Ciclo Vicioso Do Conteúdo Sem Valor"
+
+    - speaker: "Beto Muniz"
+      url: "http://pt.slideshare.net/obetomuniz/comunidade-abuse-e-use-dela-com-moderao-e-inteligncia"
+      title: "Comunidade. Abuse e use dela com moderação e inteligência"
+
+    - speaker: "Claudio Sanches"
+      sid: "claudiosanches"
+      url: "https://speakerdeck.com/claudiosmweb/trabalhando-com-a-api-rest-e-webhooks-do-woocommerce"
+      title: "Trabalhando com a API Rest e Webhooks do WooCommerce"
+
+    - speaker: "Sergio Costa"
+      url: "http://pt.slideshare.net/sergiocosta5815/wordcampbh-2015-o-mnimo-essencial-para-o-bom-desempenho-do-seu-projeto-em-wordpress"
+      title: "O essencial para o bom desempenho do seu projeto em WordPress"
+
+    - speaker: "Gustavo Bordoni"
+      sid: "bordoni"
+      url: "http://slides.com/bordoni/montando-servidores-para-wordpress"
+      title: "Configurando um Servidor para WordPress"
+
+    - speaker: "Taylor Lovett"
+      url: "http://pt.slideshare.net/tlovett1/wordpress-searchelasticsearch"
+      title: "Modernizing WordPress Search with Elasticsearch"
+
+    - speaker: "Leo Baiano"
+      url: "http://pt.slideshare.net/leobaiano1/clean-code-programando-com-word-press-de-forma-profissional"
+      title: "Clean code: programando com WordPress de forma profissional"
+
+    - speaker: "Rômulo Zoch"
+      url: "http://pt.slideshare.net/romulozoch/cheatsheet-workshop-criando-apps-multidispositivos-e-servindo-contedo-com-wordpress"
+      title: "WorkShop: Criando APPs Multi­dispositivos e servindo conteúdo com WordPress"
+
+- type: wordcamp
   date: 2014-05-17
   url: https://belohorizonte.wordcamp.org/2014/
   slides:
@@ -81,6 +160,6 @@
       title: "Traduzindo seu conteúdo com WPML + ICanLocalize "    
 
     - speaker: "Gustavo Bordoni"
-      sid: bordoni
+      sid: "bordoni"
       url: "http://slides.com/bordoni/wordcamp-bh-2014"
       title: "Desenvolvimento consciente para Plugins"                                                                   
