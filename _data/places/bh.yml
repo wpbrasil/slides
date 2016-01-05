@@ -70,6 +70,7 @@
       title: "Modernizing WordPress Search with Elasticsearch"
 
     - speaker: "Leo Baiano"
+      sid: "leobaiano"
       url: "http://pt.slideshare.net/leobaiano1/clean-code-programando-com-word-press-de-forma-profissional"
       title: "Clean code: programando com WordPress de forma profissional"
 
