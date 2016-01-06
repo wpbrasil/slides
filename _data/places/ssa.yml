@@ -1,0 +1,68 @@
+- type: wordcamp
+  date: 2014-12-06
+  url: https://salvador.wordcamp.org/2014/
+  slides:
+    - speaker: "Nícholas André Pinho de Oliveira"
+      url: "http://pt.slideshare.net/nicholasandreio/palestra-word-campwordpress-multisite"
+      title: "WordPress Multisite: Desenvolvendo Portais com Sites Interligados"
+
+    - speaker: "Márcio Souza Serdeira"
+      url: "https://salvador.wordcamp.org/2014/files/2014/12/Tecnologia-%C3%A0-favor-da-Divulga%C3%A7%C3%A3o-da-Alfabetiza%C3%A7%C3%A3o-Cient%C3%ADfica.pdf"
+      title: "Tecnologia À Favor Da Divulgação Da Alfabetização Científica Em Escolas Públicas Do Estado Do Amazonas"
+
+    - speaker: "Cristal Bittencourt"
+      url: "https://salvador.wordcamp.org/2014/files/2014/12/Cristal-Bittencourt-Workflow-da-cria%C3%A7%C3%A3o-de-conte%C3%BAdo.pdf"
+      title: "Workflow Da Criação De Conteúdo: Do Planejamento Ao Post"
+
+    - speaker: "Ted K’"
+      url: "http://pt.slideshare.net/ThiagoSimesTedk/wordpress-para-seus-clientes"
+      title: "Wordpress para seus Clientes"
+
+    - speaker: "Mario Jorge"
+      url: "https://speakerdeck.com/mariojp/wordpress-na-nuvem"
+      title: "WordPress na Nuvem"
+
+    - speaker: "Helton Bezerra da Silva"
+      url: "https://salvador.wordcamp.org/2014/files/2014/12/wordCampSalvador2014.pptx_.pdf"
+      title: "Programação Visual Aplicada Para Blogueiros"
+
+    - speaker: "Sergio Costa"
+      url: "http://pt.slideshare.net/sergiocosta5815/wordcamp-salvador-2014-o-essencial-para-o-bom-desempenho-do-seu-projeto-em-wordpress-sergio-costa"
+      title: "O essencial para o bom desempenho do seu projeto em WordPress"
+
+    - speaker: "Juan Manuel Arias"
+      url: "http://pt.slideshare.net/trasgofurioso1/usando-git-e-scrum-para-trabalhar-em-equipe"
+      title: "Usando git e scrum para trabalhar em equipe"
+
+    - speaker: "Ian Castro"
+      url: "http://pt.slideshare.net/iancsouza/seo-para-wordpress-wordcamp-salvador"
+      title: "Seo Para Wordpress: Uma Abordagem Prática"
+
+    - speaker: "Claudio Sanches"
+      sid: "claudiosanches"
+      url: "https://speakerdeck.com/claudiosmweb/montando-uma-plataforma-de-vendas-com-woocommerce"
+      title: "Montando uma plataforma de vendas com WooCommerce"
+
+    - speaker: "Michele Silva"
+      url: "https://speakerdeck.com/mchelem/teste-cabra-da-peste-2"
+      title: "Teste, cabra da peste 2"
+
+    - speaker: "Amon Caldas"
+      url: "https://salvador.wordcamp.org/2014/files/2014/12/WordCamp.pdf"
+      title: "As Novas Tecnologias Hack E Hhvm Do Facebook E O Wordpress"
+
+    - speaker: "Valério Souza"
+      url: "http://pt.slideshare.net/valeriosza/word-camp-salvador"
+      title: "WordPress para Redatores, Jornalistas, Publicitários e Blogueiros"
+
+    - speaker: "Priscilla Arruda Saldanha"
+      url: "http://pt.slideshare.net/psaldanha11/personal-branding-atravs-dos-blogs"
+      title: "Personal Branding através dos Blogs"
+
+    - speaker: "Fellyph Cintra"
+      url: "http://pt.slideshare.net/fellyph/dicas-para-workflow-wordpress-javascript"
+      title: "Dicas para Workflow WordPress + JavaScript"
+
+    - speaker: "Bruno Calheira dos Santos"
+      url: "https://speakerdeck.com/calheira/use-git-e-perca-seu-medo-de-errar"
+      title: "Use git e perca seu medo de errar"
