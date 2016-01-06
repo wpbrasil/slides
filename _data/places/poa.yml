@@ -1,0 +1,40 @@
+- type: wordcamp
+  date: 2013-07-13
+  url: https://portoalegre.wordcamp.org/2013/
+  slides:
+    - speaker: "Jackson Mafra"
+      url: "http://www.slideshare.net/jacksonfdam/responsive-wordpress-24196120"
+      title: "Criando Temas Responsáveis"
+      video: "https://www.youtube.com/watch?v=MAwelJPyqTw&list=PLnLmR2zEyj9inYa9cmk-uAiA-Qh1qsPIB&index=2"
+
+    - speaker: "Israel Cefrin"
+      url: "http://www.slideshare.net/israel.cefrin/palestra-tunandowpwordcamp2013"
+      title: "Tunando o WordPress para sites de alta visitação"
+      video: "https://www.youtube.com/watch?v=SIwRLcmK88E&list=PLnLmR2zEyj9inYa9cmk-uAiA-Qh1qsPIB&index=3"
+
+    - speaker: "Gabriel Reguly"
+      url: "https://docs.google.com/presentation/d/1CrDjuzfG_zKUFS5fn6pNfP_Do64LCu-mei_D8Sw4UEw/"
+      title: "Aquerenciando o WordPress: plugins, temas e functions.php"
+      video: "Vídeo: https://www.youtube.com/watch?v=oUnvJhEzM68&list=PLnLmR2zEyj9inYa9cmk-uAiA-Qh1qsPIB&index=4"
+
+    - speaker: "Fernando Daciuk"
+      url: "http://fdaciuk.github.io/talks/2013/wordcamp-porto-alegre/#/start"
+      title: "Automatizando tarefas no WordPress com GruntJS"
+      video: "https://www.youtube.com/watch?v=SavMPPuDL34&list=PLnLmR2zEyj9inYa9cmk-uAiA-Qh1qsPIB&index=5"
+
+    - speaker: "Cláudio Sanches"
+      sid: "claudiosanches"
+      url: "https://speakerdeck.com/claudiosmweb/e-commerce-no-wordpress-com-woocommerce-wordcamp-poa-2013"
+      title: "E-commerce no WordPress com WooCommerce"
+      video: "https://www.youtube.com/watch?v=3XKXKHNuz7o&list=PLnLmR2zEyj9inYa9cmk-uAiA-Qh1qsPIB&index=6"
+
+    - speaker: "Guga Alves"
+      url: "http://www.slideshare.net/gugaalves/seo-para-wordpress-24266235"
+      title: "SEO para WordPress: Guia Definitivo"
+      video: "https://www.youtube.com/watch?v=hnzdLmeYixo&list=PLnLmR2zEyj9inYa9cmk-uAiA-Qh1qsPIB&index=7"
+
+    - speaker: "Gustavo Bordoni"
+      sid: "bordoni"
+      url: "http://www.slideshare.net/webord/wordpress-na-amazon-aws-cloud36"
+      title: "Escalando nas nuvens com WordPress e Amazon AWS"
+      video: "https://www.youtube.com/watch?v=u4OCXlz0XlM&list=PLnLmR2zEyj9inYa9cmk-uAiA-Qh1qsPIB&index=8"
