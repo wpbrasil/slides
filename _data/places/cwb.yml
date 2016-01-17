@@ -1,0 +1,65 @@
+- type: wordcamp
+  date: 2012-06-15
+  url: https://curitiba.wordcamp.org/2012/
+  slides:
+    - speaker: "Mauro Hiroto Suzuki, Hamilton Chaiben e Patrícia Custódio"
+      url: "https://curitiba.wordcamp.org/2012/files/2012/06/WordCamp_Curitiba_2012-UFPR.pdf"
+      title: "Análise e Estudo de Caso de Implantação do WordPress na UFPR"
+      video: "https://videopress.com/v/mUpQ4www"
+
+    - speaker: "Tarso Cabral Violin"
+      url: "https://curitiba.wordcamp.org/2012/files/2012/06/WordCampCuritiba2012.pdf"
+      title: "Um Blog Feito Por Advogado"
+      video: "https://videopress.com/v/nhRfuhIy"
+
+    - speaker: "José Geraldo Magalhães"
+      url: "https://curitiba.wordcamp.org/2012/files/2012/06/SOS-aqui-comercial_1280.pdf"
+      title: "Apresentação do Case SOSaqui.com"
+      video: "https://videopress.com/v/COQB7Wml"
+
+    - speaker: "Rafael de Menezes Ehlers"
+      title: "E-commerce no WordPress, Aprenda Como Fazer!"
+      video: "https://videopress.com/v/tFa2emPQ"
+
+    - speaker: "João Paulo Mehl"
+      url: "https://prezi.com/kiqaunypqihp/agora-delibera/"
+      title: "ÀgoraDelibera: Experiências de Democracia Digital"
+      video: "https://videopress.com/v/ip3ATRVM"
+
+    - speaker: "Vinicius Massuchetto"
+      title: "Grandes Migrações: Passando De Qualquer Plataforma Para o WordPress"
+      video: "https://videopress.com/v/RhuAfB12"
+
+    - speaker: "Daniel Kossmann Ferraz"
+      url: "https://curitiba.wordcamp.org/2012/files/2012/06/Ferramentas-livres-para-desenvolvimento-WordPress.pdf"
+      title: "Ferramentas Livres Para Desenvolvimento WordPress"
+      video: "https://videopress.com/v/kywEoJCt"
+
+    - speaker: "Flávio Augusto da Silveira"
+      url: "http://pt.slideshare.net/flavioaugustosilveira/por-um-wordpress-mais-seguro-13354465"
+      title: "Por um WordPress Mais Seguro"
+      video: "https://videopress.com/v/zpcvstsR"
+
+    - speaker: "Fabianne Balvedi"
+      url: "https://curitiba.wordcamp.org/2012/files/2012/06/bicicletadaWP.pdf"
+      title: "Estudo de Caso do Site da Bicicletada de Curitiba"
+      video: "https://videopress.com/v/AhPWwn6E"
+
+    - speaker: "Gustavo Bordoni"
+      sid: bordoni
+      title: "WPaS: Performance Para Grande Volumes"
+      video: "https://videopress.com/v/g0eUgMpA"
+
+    - speaker: "Frank Alcantara"
+      url: "http://www.depijama.com/wp-content/uploads/penguin.pdf"
+      title: "Odeio Pinguim: Uma Relação de Amor e Ódio com o Google"
+      video: "https://videopress.com/v/WEcIydBv"
+
+    - speaker: "Leo Germani"
+      title: "URLs e Permissões Personalizadas"
+      video: "https://videopress.com/v/qWiyjqZg"
+
+    - speaker: "Felipe Coelho Kussik"
+      url: "http://pt.slideshare.net/seufelipe/wordpress-total"
+      title: "WordPress Total"
+      video: "https://videopress.com/v/qIRAW1qt"
