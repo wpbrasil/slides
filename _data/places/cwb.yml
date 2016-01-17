@@ -63,3 +63,44 @@
       url: "http://pt.slideshare.net/seufelipe/wordpress-total"
       title: "WordPress Total"
       video: "https://videopress.com/v/qIRAW1qt"
+
+- type: wordcamp
+  date: 2010-10-22
+  url: https://curitiba.wordcamp.org/2010/
+  slides:
+    - speaker: "Daniel Antunes"
+      url: "https://curitiba.wordcamp.org/2010/files/2010/10/orientacao-objetos-plugins.pdf"
+      title: "Orientação a objetos para plugins"
+
+    - speaker: "Edgar Fernando / Georgea Vieira"
+      url: "https://curitiba.wordcamp.org/2010/files/2010/10/temas-apresentacao.pdf"
+      title: "WordPress para Designers / Desenvolvimento de Temas"
+
+    - speaker: "Guilherme Aguiar - CulturaDigital.br"
+      title: "WordPress Como Rede Social"
+      video: "http://wordpress.tv/2012/06/10/guilherme-aguiar-wordpress-como-rede-social-culturadigital-br/"
+
+    - speaker: "Leonardo Germani"
+      title: "WordPress Como Rede Social - ItsNoon.net"
+      video: "http://wordpress.tv/2012/06/08/leonardo-germani-wordpress-como-rede-social-itsnoon-net/"
+
+    - speaker: "Diego Rojas"
+      title: "WordPress Como Rede Social - Maracatu.org.br"
+      video: "http://wordpress.tv/2012/06/09/diego-rojas-wordpress-como-rede-social-maracatu-org-br/"
+
+    - speaker: "Daniel Antunes Rocha"
+      title: "Boas práticas para desenvolvimento de plugins para WordPress"
+      video: "http://wordpress.tv/2012/06/09/daniel-antunes-rocha-boas-praticas-para-desenvolvimento-de-plugins-para-wordpress/"
+
+    - speaker: "Frank Alcantara"
+      title: "Redes Sociais Como Alavanca de Negócios e Carreiras"
+      video: "http://wordpress.tv/2012/06/09/frank-alcantara-redes-sociais-como-alavanca-de-negocios-e-carreiras/"
+
+    - speaker: "Leonardo Falcão"
+      url: "http://pt.slideshare.net/LeonardoFalcao/wordpress-na-globocom-wordcamp-curitiba"
+      title: "WordPress Para Enormes Audiências – Globo.com"
+      video: "http://wordpress.tv/2012/06/08/leonardo-falcao-wordpress-para-enormes-audiencias-globo-com/"
+
+    - speaker: "Zé Fontainhas"
+      title: "WordPress Para Enormes Audiências - SWU"
+      video: "http://wordpress.tv/2012/06/08/ze-fontainhas-wordpress-para-enormes-audiencias-wordpress-com/"
