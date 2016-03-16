@@ -1,5 +1,6 @@
 # Slides
-Repositório para centralizar os slides apresentados em meetups e WordCamps pelo Brasil
+Repositório para centralizar os slides apresentados em meetups e WordCamps pelo Brasil.  
+Os slides podem ser vistos em [https://wpbrasil.github.io/slides/](https://wpbrasil.github.io/slides/)
 
 ## Cidades
 
