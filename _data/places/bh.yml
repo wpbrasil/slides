@@ -4,7 +4,17 @@
   slides:
     - speaker: "Leonardo Passos"
       url: "http://afirmacomunicacao.com.br/wp-content/uploads/2015/06/Palestra-P%C3%A1ginas-8-vezes-mais-persuasivas.pdf"
-      title: "Páginas 8 vezes mais persuasivas "
+      title: "Páginas 8 vezes mais persuasivas"
+
+    - speaker: "Guga Alves"
+      url: "http://pt.slideshare.net/gugaalves/campos-personalizados-like-a-pro-wordcamp-so-paulo-2014"
+      title: "Campos Personalizados Like a Pro: Conheça o Advanced Custom Fields" 
+      video: http://wordpress.tv/2015/09/30/guga-alves-campos-personalizados-like-a-pro-conhec%CC%A7a-o-advanced-custom-fields/     
+
+    - speaker: "Bruno Calheira"
+      url: "http://pt.slideshare.net/brunocalheira/use-o-git-e-perca-o-medo-de-errar"
+      title: "Use o Git e Perca o Medo de Errar" 
+      video: http://wordpress.tv/2015/09/30/bruno-calheira-use-o-git-e-perca-o-medo-de-errar/          
 
     - speaker: "Rafael Funchal"
       sid: "rafaelfunchal"
@@ -22,10 +32,12 @@
     - speaker: "Breno Alves"
       url: "http://pt.slideshare.net/brenoalvs/sweet-child-o-themes"
       title: "Sweet Child O’ Themes"
+      video: http://wordpress.tv/2015/10/03/breno-alves-sweet-child-o-themes/
 
     - speaker: "Fellyph Cintra"
       url: "http://pt.slideshare.net/fellyph/do-marketplace-ao-wordpress-wordcamp-bh-2015"
       title: "Do marketplace para WordPress, dicas de desenvolvimento Front-End"
+      video: http://wordpress.tv/2015/10/03/fellyph-cintra-do-marketplace-ao-wordpress/
 
     - speaker: "Anyssa Ferreira"
       url: "http://pt.slideshare.net/anyssaferreira/design-para-wordpress-anyssa-ferreira-wordcamp-bh-2015"
@@ -55,6 +67,7 @@
       sid: "claudiosanches"
       url: "https://speakerdeck.com/claudiosmweb/trabalhando-com-a-api-rest-e-webhooks-do-woocommerce"
       title: "Trabalhando com a API Rest e Webhooks do WooCommerce"
+      video: http://wordpress.tv/2015/09/29/claudio-sanches-trabalhando-com-a-api-rest-e-webhooks-do-woocommerce/
 
     - speaker: "Sergio Costa"
       url: "http://pt.slideshare.net/sergiocosta5815/wordcampbh-2015-o-mnimo-essencial-para-o-bom-desempenho-do-seu-projeto-em-wordpress"
