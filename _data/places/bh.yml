@@ -1,3 +1,57 @@
+
+- type: wordcamp
+  date: 2016-07-23
+  url: https://2016.belohorizonte.wordcamp.org/
+  slides:
+    - speaker: "Junior Grossi"
+      url: "http://2016.belohorizonte.wordcamp.org/files/2016/08/Junior-Grossi-Corcel-WordPress-Laravel-WordCamp-BH-2016.pdf"
+      title: "Corcel = WordPress + Laravel. Como o open source também pode mudar a sua vida."
+
+    - speaker: "Gabriela Leroy"
+      url: "http://2016.belohorizonte.wordcamp.org/files/2016/07/Gabi_Leroy-Palestra-WordCamp-2016.pdf"
+      title: "Por que o seu marketing digital está dando errado?"
+
+    - speaker: "Octávio Romes"
+      url: "http://2016.belohorizonte.wordcamp.org/files/2016/07/Octacio_Romes_WordCamp_BH_2016.pdf"
+      title: "WordPress e direitos autorais: como proteger seu conteúdo na web"
+
+    - speaker: "Daniel Coscarelli"
+      url: "http://pt.slideshare.net/DanielCoscarelli/ux-research-64315265"
+      title: "Pesquisas com usuários, o que desenvolvedores também precisam saber!"  
+      
+    - speaker: "Allyson Souza"
+      url: "http://www.allysonsouza.com.br/palestra/customizer-uma-melhor-experiencia-na-personalizacao-de-temas/"
+      title: "Customizer: Uma melhor experiência na personalização de temas"
+
+    - speaker: "Anyssa Ferreira"
+      url: "https://docs.google.com/presentation/d/1FtFodUZyFV489tyrUQG4BKo56DJ1tBmKggJUN2c9QP0/pub?start=false&loop=false&delayms=3000&slide=id.p"
+      title: "Design de temas para WooCommerce"
+
+    - speaker: "Léo Velozo"
+      url: "http://www.slideshare.net/LeonardoVelozo/startups-com-wordpress-wordcampbh-2016"
+      title: "Startups com WordPress"
+
+    - speaker: "Marlon Amâncio"
+      url: "http://slides.com/marlonlamancio/wordcampbh2016#/"
+      title: "Fundamentos do WordPress para você sair do básico"  
+
+    - speaker: "Keyla Silva"
+      url: "http://www.slideshare.net/Keyla_Silva/como-oferecer-boas-experincias-online-com-a-criao-de-sites-de-qualidade-keyla-silva-64380093"
+      title: "Como oferecer boas experiências online com a criação de sites de qualidade"
+
+    - speaker: "Leo Baiano / Jefferson Camargo"
+      url: "http://pt.slideshare.net/leobaiano1/home-viva-do-design-da-interface-ate-a-programacao-do-sistema"
+      title: "Home viva do design da interface até a programação do sistema"
+
+    - speaker: "Rodrigo Brito"
+      url: "http://slides.com/rodrigo73/desenvolvimento-temas#/"
+      title: "Introdução ao desenvolvimento de temas com frameworks"
+
+    - speaker: "Daniel Kossmann"
+      url: "https://www.dropbox.com/s/5wsda818xhjcv10/wcbh2016-spirallab.pdf?dl=0"
+      title: "Gerenciando sites em WordPress de forma eficiente: do deploy à manutenção"  
+
+
 - type: wordcamp
   date: 2015-06-13
   url: https://belohorizonte.wordcamp.org/2015/
