@@ -5,35 +5,43 @@
     - speaker: "Raphael Amorim"
       url: "https://speakerdeck.com/raphamorim/500-days-of-open-source"
       title: "500 Days of Open Source"
+      video: http://wordpress.tv/2016/06/21/raphael-amorim-palestra-500-days-of-open-source-com-raphael-amorim/
 
     - speaker: "Gustavo Bordoni"
       sid: bordoni
       url: "http://slides.com/bordoni/entenda-como-funciona-um-bom-servidor-para-o-seu-negcio-em-wordpress"
       title: "Entenda como funciona um bom servidor para o seu negócio em WordPress"
+      video: http://wordpress.tv/2016/06/30/gustavo-bordoni-palestra-entenda-como-funciona-um-bom-servidor-para-o-seu-negocio-em-wordpress/
 
     - speaker: "Bruno Figueiredo"
       url: "http://www.slideshare.net/BrunoFigueiredo25/estratgia-de-contedo-para-seo"
       title: "Estratégia de conteúdo para SEO: lapidando a relevância de palavras-chave"
+      video: http://wordpress.tv/2016/06/24/bruno-figueiredo-small-talk-estrategia-de-conteudo-para-seo-com-bruno-figueiredo/
 
     - speaker: "Leandro Cicarelli"
       url: "http://pt.slideshare.net/leandrociccarelli1/wordcamp-rj-2015-a-importncia-do-designux-para-os-desenvolvedores-de-wordpress"
       title: "A importância do Design/UX para os desenvolvedores de WordPress"
+      video: http://wordpress.tv/2016/06/22/leandro-ciccarelli-small-talk-a-importancia-do-design-ux-para-os-desenvolvedor/
 
     - speaker: "Karen Arnold e Erica Varlese"
       url: "http://pt.slideshare.net/karenalma/engineering-happiness"
       title: "Engineering happiness: bridging the gap between developers and customers"
+      video: http://wordpress.tv/2016/06/21/karen-arnold-and-erica-varlese-engineering-happiness-bridging-the-gap-between-developers-and-customers/
 
     - speaker: "Vinícius Lourenço"
       url: "http://pt.slideshare.net/vilourenco/vincius-loureno-desenvolvendo-plugins-para-automatizaes"
       title: "Desenvolvendo plugins para automatizações"
+      video: http://wordpress.tv/2016/06/17/vinicius-lourenco-desenvolvendo-plugins-para-automatizacoes/
 
     - speaker: "Hans Paul Mosl"
       url: "http://pt.slideshare.net/hansmosl/web-design-responsivo-wordcamprj-2015"
       title: "Dicas para projetar um site Responsivo de qualidade"
+      video: http://wordpress.tv/2016/06/24/hans-paul-small-talk-dicas-para-projetar-um-site-responsivo-de-qualidade-com-hans-paul/
 
     - speaker: "Rodrigo Primo"
       url: "https://speakerdeck.com/rodrigoprimo/como-contribuir-com-o-desenvolvimento-do-core-do-wordpress"
       title: "Contribuindo com o Core do WordPress"
+      video: http://wordpress.tv/2016/06/22/rodrigo-primo-palestra-contribuindo-com-o-core-do-wordpress/
 
 - type: wordcamp
   date: 2014-09-20
