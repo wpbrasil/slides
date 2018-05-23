@@ -1,4 +1,144 @@
 - type: wordcamp
+  date: 2016-12-10
+  url: https://2016.saopaulo.wordcamp.org/
+  slides:
+
+    - speaker: "Allyson Souza"
+      url: "https://docs.google.com/presentation/d/1cHZl5wNJSdhFBK2u8gBc6tZKGhpdmLjQSIIU3bRPa74/embed?start=false&loop=false&delayms=3000&slide=id.p"
+      title: "Iniciando sua loja com WooCommerce"
+      video: ""
+
+    - speaker: "Anderson Nascimento"
+      url: "https://speakerdeck.com/theandersonn/organizando-estilos-e-scripts-sem-perder-a-sanidade"
+      title: "Organizando scripts e styles sem perder a sanidade"
+      video: ""
+
+    - speaker: "Anyssa Ferreira"
+      url: "https://pt.slideshare.net/anyssaferreira/estilizando-temas-de-wordpress"
+      title: "Como estilizar temas: Técnicas e dicas"
+      video: ""
+
+    - speaker: "Breno Alves"
+      url: "https://www.slideshare.net/brenoalvs/traducoes-no-wordpress"
+      title: "Traduções no WordPress"
+      video: ""
+
+    - speaker: "Claudio Sanches"
+      url: "https://speakerdeck.com/claudiosanches/aprenda-a-desenvolver-plugins-no-wordpress"
+      title: "Aprenda a desenvolver plugins no WordPress"
+      video: ""
+
+    - speaker: "Cristina Luz"
+      url: ""
+      title: "O que aprendi com WordPress"
+      video: ""
+
+    - speaker: "Daniel Kossmann"
+      url: "https://www.slideshare.net/spirallab/gerenciando-sites-em-wordpress-de-forma-eficiente-do-deploy-manuteno"
+      title: "Gerenciando sites em WordPress de forma eficiente: do deploy à manutenção"
+      video: ""
+
+    - speaker: "Edison Costa"
+      url: "https://pt.slideshare.net/edisonpcosta/wordcamp-sp-2016"
+      title: "WooCommerce - Lojas Virtuais de gente grande"
+      video: ""
+
+    - speaker: "Edney InterNey Souza"
+      url: "http://www.slideshare.net/interney/content-marketing-wordcamp-so-paulo-2016"
+      title: "Aprenda a montar um projeto de Content Marketing para o seu negócio"
+      video: ""
+
+    - speaker: "Erika Souza"
+      url: "https://www.slideshare.net/erikakariris/eventos-de-sucesso-usam-wordpress"
+      title: "Eventos de sucesso usam WordPress"
+      video: ""
+
+    - speaker: "Gabriel Subtil"
+      url: ""
+      title: "Vamos nos preocupar com a segurança"
+      video: ""
+
+    - speaker: "Isaac Trabuco"
+      url: ""
+      title: "Design e estratégia para seu complexo de mídias"
+      video: ""
+
+    - speaker: "Jackson Mafra"
+      url: ""
+      title: "Vendas inteligentes com Intelibots"
+      video: ""
+
+    - speaker: "Jefferson de Camargo"
+      url: ""
+      title: "A interface nunca está pronta"
+      video: ""
+
+    - speaker: "Juliana Lewis"
+      url: "https://www.slideshare.net/SucuriSecurity/como-limpar-seu-site-wordpress"
+      title: "Como limpar um site WordPress hackeado"
+      video: ""
+
+    - speaker: "Leo Baiano"
+      url: ""
+      title: "Coisas que eu gostaria de saber antes de começar a desenvolver temas e plugins para WordPress"
+      video: ""
+
+    - speaker: "Leonam Pereira Dias"
+      url: "http://www.slideshare.net/LeonamPereiraDias/case-editora-abril"
+      title: "Case Editora Abril"
+      video: ""
+
+    - speaker: "Otto Wald"
+      url: ""
+      title: "Brindar soporte soporta tu negocio. El caso de WPML"
+      video: ""
+
+    - speaker: "Paulo Costa"
+      url: ""
+      title: "A arte de vender sites em WordPress"
+      video: ""
+
+    - speaker: "Rafael Angeline"
+      url: ""
+      title: "WordPress REST API e Web Apps (com React)"
+      video: ""
+
+    - speaker: "Rafael Funchal"
+      url: "http://www.slideshare.net/rafaelfunchal/configurando-ssl-com-lets-encrypt-easyengine-e-wpcli"
+      title: "Configurando SSL com Let's Encrypt, EasyEngine e WP-CLI"
+      video: ""
+
+    - speaker: "Raphael Paim"
+      url: ""
+      title: "Quer fechar negócio? Apresente o WordPress para os seus clientes!"
+      video: ""
+
+    - speaker: "Renato Frota"
+      url: ""
+      title: "O mercado de trabalho WordPress no Brasil e no mundo"
+      video: ""
+
+    - speaker: "Ricardo Braz"
+      url: ""
+      title: "Mergulhando no WP"
+      video: ""
+
+    - speaker: "Ruan Barbosa"
+      url: ""
+      title: "SEO para WooCommerce Orientado a Dados"
+      video: ""
+
+    - speaker: "Thauã Santos"
+      url: "https://pt.slideshare.net/ThauCceroSantosSilva/segurana-da-informao-palestra-wordcamp-sp-2016"
+      title: "Segurança da informação para WordPress e WooCommerce"
+      video: ""
+
+    - speaker: "Thiago Censi"
+      url: "https://www.slideshare.net/frq/introduo-a-hooks-aprenda-a-customizar-o-wordpress-com-filtros-e-aes"
+      title: "Introdução a hooks: aprenda a customizar o WordPress com filtros e ações"
+      video: ""
+
+- type: wordcamp
   date: 2015-11-28
   url: https://saopaulo.wordcamp.org/2015/
   slides:
